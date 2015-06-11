@@ -1,2 +1,2 @@
 # KaprekarConstGen
-A (super fast) KaprekarConst Generator
+A (super fast) Kaprekar-Const Generator
