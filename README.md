@@ -2,10 +2,10 @@
 A (super fast) Kaprekar-Const Generator
 
 ## Files
-KaprekarConstGen.h: The KaprekarConst-Generator
+- KaprekarConstGen.h: The KaprekarConst-Generator
 
-KaprekarConstGen.vcxproj: A VC 2015 (RC) sample console project
-KaprekarConstGenTest.cpp:
+- KaprekarConstGen.vcxproj: A VC 2015 (RC) sample console project
+- KaprekarConstGenTest.cpp
 
 
 ## Performance
